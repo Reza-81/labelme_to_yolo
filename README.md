@@ -20,7 +20,7 @@ To use this tool, follow the steps below:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/labelme_to_yolo.git
+   git clone https://github.com/Reza-81/labelme_to_yolo.git
 
 2. Navigate to the project directory:
 
